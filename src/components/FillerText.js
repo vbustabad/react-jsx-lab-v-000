@@ -1,7 +1,5 @@
 class FillerText extends Component {
 
-  currentTime = () => new Date().toString()
-
   render() {
     return (
       <p>

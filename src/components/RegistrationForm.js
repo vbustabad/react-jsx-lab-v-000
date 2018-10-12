@@ -4,11 +4,11 @@ class RegistrationForm extends Component {
     return (
       <form>
       </form>
-      <input>
+      <input type="text">
       </input>
-      <input>
+      <input type="password">
       </input>
-      <button>
+      <button type="submit">
       </button>
     );
   }

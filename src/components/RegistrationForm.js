@@ -1,7 +1,7 @@
 class RegistrationForm extends Component {
- 
+
   currentTime = () => new Date().toString()
- 
+
   render() {
     return (
       <form>
@@ -14,3 +14,4 @@ class RegistrationForm extends Component {
       </button>
     );
   }
+}
